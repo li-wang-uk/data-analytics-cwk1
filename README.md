@@ -10,3 +10,4 @@ Data Visualisation.py is the code of data visualisation.\
 c4.5 Decision Tree Rules. py is the code of the C4.5 Decision tree model. \
 KNNtest.py is the code of testing machine learning accuracy by PCA and KNN method.\
 test.py is the code of testing machine learning accuracy by PCA method.
+
