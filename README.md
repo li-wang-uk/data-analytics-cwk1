@@ -1,4 +1,4 @@
-#Classifying Mushrooms Edibility Based on Machine Learning Models
+Classifying Mushrooms Edibility Based on Machine Learning Models
 
 - Dataset 
 Mushroom.csv is the file downloaded from https://www.kaggle.com/uciml/mushroom-classification?select=mushrooms.csv\
